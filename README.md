@@ -1,8 +1,4 @@
-<script src="./js/main.js"></script>
-
-<p id="hitokoto">
-    <p id="hitokoto_text"></p>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=我是清川拓海！;一条努力挣扎的咸鱼QWQ)
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=takumijie&layout=compact&theme=tokyonight)
 </br>
