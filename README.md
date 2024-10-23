@@ -3,6 +3,8 @@
 
 ![访问](https://profile-counter.glitch.me/{takumijie}/count.svg)
 
+https://count.getloli.com/@takumijie?name=takumijie&theme=asoul&padding=7&offset=0&scale=1&pixelated=1&darkmode=auto
+
 <div id="title" align=center>
 
 ### 一条努力挣扎的咸鱼
