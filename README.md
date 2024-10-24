@@ -9,7 +9,7 @@
 
 <div id="title" align=center>
 
- ### 一条努力挣扎的咸鱼
+ ### 时也，运也，命也
 
  [![个人博客](https://img.shields.io/badge/blog-清川拓海-yello)](http://lxj.ilibilib.top)
  [![私有云](https://img.shields.io/badge/cloud-alist-yello)](http://cloud.ilibilib.top)
