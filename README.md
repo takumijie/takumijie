@@ -20,7 +20,7 @@
 </div>
 
 
-![头图](image/miku.gif#pic_center)
+![](image/miku.gif#pic_center)
 
 
 
